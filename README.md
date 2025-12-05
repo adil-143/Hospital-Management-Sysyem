@@ -1,18 +1,34 @@
-## Getting Started
+# 🏥 Hospital Management System  
+*A Java Swing Desktop Application with MySQL Integration*
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple yet fully functional **Hospital Management System** built using **Java (Swing)** for the GUI and **MySQL** for data storage. It demonstrates how to build a desktop application with proper CRUD functionalities and database connectivity via JDBC.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Add new patients  
+- View all patients  
+- Search patients by ID  
+- Discharge patients  
+- Display records in interactive tables  
+- Real MySQL backend using JDBC  
+- Clean and simple Swing-based GUI  
+- Fully open-source and beginner-friendly  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Technologies Used
 
-## Dependency Management
+| Technology | Purpose |
+|-----------|----------|
+| **Java (JDK 17+)** | Backend logic + GUI |
+| **Java Swing** | Desktop UI |
+| **MySQL** | Persistent data storage |
+| **JDBC (Connector/J)** | MySQL connectivity |
+| **VS Code** | Development environment |
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 📁 Project Structure
+
