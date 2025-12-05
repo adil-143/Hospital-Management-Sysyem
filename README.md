@@ -31,4 +31,11 @@ This is a simple yet fully functional **Hospital Management System** built using
 ---
 
 ## 📁 Project Structure
-
+HOSPITALMANAGEMENT
+│
+├── src
+│ ├── DBHelper.java
+│ └── HospitalManagementGUI.java
+│
+├── .gitignore
+└── README.md
